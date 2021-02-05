@@ -13,7 +13,7 @@ ENDCLASS.
 
 CLASS zcl_d056430_hello_world IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Hello World!' ).
+    out->write( 'Hello World!!' ).
   ENDMETHOD.
 
 ENDCLASS.
